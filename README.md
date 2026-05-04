@@ -10,6 +10,6 @@ AI Tools used:
 
 Check NOTES.md for more in depth description on thought process
 
-QUIRKs TO BE AWARE OF: 
+QUIRKS TO BE AWARE OF: 
 - When searching, if you type "shoes" you won't get anything, but if you type "shoe" you will get a response.
 - Sometimes you have to restart the backend because it doesn't connect/ingest from the supplied URL
